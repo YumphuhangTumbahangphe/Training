@@ -113,10 +113,19 @@ nav a:hover{
 
 }
 .yt-video{
-    background-color: yellow;
+    
     width: 50%;
 }
 .google-map{
-    background-color: green;
+    
     width: 50%;
 }
+footer p{
+        color: black;
+        text-align: center;
+        font-size: 18px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        background-color: #2464bc;
+}
+
+
